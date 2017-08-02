@@ -1,10 +1,10 @@
 {
-  "name": "kodilla-zadanie_12_5",
+  "name": "kod-zad_12_5_web",
   "version": "1.0.0",
-  "description": "examp zad125",
+  "description": "examp zad125web",
   "main": "Gruntfile.js",
   "scripts": {
-    "test": "test-kod"
+    "test": "test"
   },
   "repository": {
     "type": "git",

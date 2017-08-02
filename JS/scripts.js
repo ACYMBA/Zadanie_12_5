@@ -29,4 +29,5 @@ function createTweet(input) {
 		        getQuote();
 		    })
 		});
+		
 }
